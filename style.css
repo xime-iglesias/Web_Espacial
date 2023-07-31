@@ -1,0 +1,125 @@
+body{
+    background-image: url(images/fondo-estrellas.jpg);
+    font-family: 'Dai Banna SIL', serif;
+    color: aliceblue;
+}
+
+
+.main-title{
+    font-family: 'Pangolin', cursive;
+    color: #4C79E6;
+    font-size: 55px;
+    text-align: center;
+    
+}
+
+
+.second-title{
+    color: white;
+    font-family: 'Dai Banna SIL', serif;
+    font-size: 22px;
+
+}
+
+
+.top-estrellas{
+    color: whitesmoke;
+    font-family: 'Dai Banna SIL', serif;
+    
+}
+
+.astronauta{
+    width: 340px;
+    border-style: groove;
+    border-width: 5px;
+    border-color:#4C79E6;
+    display: block;
+    margin: auto;
+}
+.title-definicion{
+    font-size: 28px;
+    color:  #5982FA ;
+}
+
+.parrafo-definicion{
+    font-size: 18px;
+    justify-content: center;
+}
+
+
+.title-misiones{
+    color: white;
+    font-size: 22px;
+    font-family: 'Dai Banna SIL', serif;
+}
+
+
+.title-universo{
+    font-size: 28px;
+    color:  #5982FA ;
+}
+
+.parrafo-universo{
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+.title-estrellas{
+    font-size: 28px;
+    color:  #5982FA ;
+}
+
+.parrafo-estrellas{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.title-planetas{
+    font-size: 28px;
+    color:  #5982FA ;
+}
+
+.parrafo-planetas{
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+#columnas{
+    column-count:4;
+    column-gap:50px;
+    column-rule:5px double gray;
+    list-style: none;
+}
+
+
+.title-video{
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Dai Banna SIL', serif;
+}
+
+.video{
+    text-align: center;
+}
+
+
+.title-formulario{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Dai Banna SIL', serif;
+}
+
+
+.title-pie{
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Dai Banna SIL', serif;
+    color: #4C79E6;
+}
+/*
+selector{
+    propiedad : valor ;
+}
+*/
